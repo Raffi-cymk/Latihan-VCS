@@ -1,6 +1,9 @@
 # Latihan-VCS
 
 Langkah-langkah Membuat Latihan VCS dengan Git
+![17293182656938510183665516951468](https://github.com/user-attachments/assets/56c160fb-1812-4693-958e-9bddebf5e4c5)
+
+
 
 1. Instalasi Git
 
